@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-image: url('https://cdn.discordapp.com/attachments/1167534811586498581/1189202207468441670/giphy_6.gif');
+    background-repeat: no-repeat;
+    background-size: 80vh;
+    background-position: center;
+    background-color: black;
+}
+.header_text {
+    font-family: 'Nunito';
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
